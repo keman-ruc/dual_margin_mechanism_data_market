@@ -5,7 +5,6 @@ Code and data for the ICDE 2027 submission.
 ## Structure
 
 - `code/numerical_simulation/` — simulation implementation (`sim_model.py`, `sim_theory.py`, `sim_config.py`) and experiment scripts (`run_theory_vs_simulation.py`, `run_safety_fee_sensitivity.py`, `run_safety_intervention_timing.py`, `run_safety_only_experiment.py`).
-- `results/figures/` — figures used in the paper (Fig. 3–13).
 - `results/data/main/` — main experiment outputs: proposition validation, redistribution feasibility, and mechanism comparison.
 - `results/data/fee/` — safety-threshold fee-multiple sensitivity.
 - `results/data/timing/` — safety-threshold intervention-timing sensitivity.
